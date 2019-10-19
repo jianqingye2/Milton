@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 )
-//Go check
+//Go check 2
 func main() {
 	gopath := os.Getenv("GOPATH")
 	if gopath == "" {
